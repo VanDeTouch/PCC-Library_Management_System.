@@ -1,0 +1,66 @@
+[
+  {
+    "id": "BK-001",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Literature",
+    "year": 1925,
+    "status": "Available"
+  },
+  {
+    "id": "BK-002",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fiction",
+    "year": 1997,
+    "status": "Borrowed"
+  },
+  {
+    "id": "BK-003",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fiction",
+    "year": 1937,
+    "status": "Available"
+  },
+  {
+    "id": "BK-004",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "year": 2008,
+    "status": "Available"
+  },
+  {
+    "id": "BK-005",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "Education",
+    "year": 2009,
+    "status": "Borrowed"
+  },
+  {
+    "id": "BK-006",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "year": 1988,
+    "status": "Available"
+  },
+  {
+    "id": "BK-007",
+    "title": "Noli Me Tangere",
+    "author": "José Rizal",
+    "category": "Literature",
+    "year": 1887,
+    "status": "Available"
+  },
+  {
+    "id": "BK-008",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Fiction",
+    "year": 1943,
+    "status": "Borrowed"
+  }
+]
